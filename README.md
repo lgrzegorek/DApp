@@ -11,6 +11,8 @@ IPFS node
 TO DO:
 Integrate project with Infura API
 Automate ipfs node generating 
+Test in Rinkeby (remix.ethereum.org)
 . 
+
 .
 .

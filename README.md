@@ -6,3 +6,11 @@ What does it consist of?
 Ethereum
 Node.js
 IPFS node
+
+
+TO DO:
+Integrate project with Infura API
+Automate ipfs node generating 
+. 
+.
+.
